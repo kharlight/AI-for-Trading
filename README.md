@@ -33,7 +33,7 @@ Apply Natural Language Processing on corporate filings such as 10Q and 10K state
 In the course leading up to the project, the learning objective is to get to know how deep learning is applied in quantitative analysis and get to use Recurrent Neural Networks (RNN) and Long Short Term Memory Networks (LSTM) to generate trading signals.
 ##### 6.2 Project Specifications
 Build deep neural networks to process and interpret news data. Construct and train LSTM networks for sentiment classification. Backtest and apply the models to news data for signal generation.
-#### 7. Combined Signals got <enhanced Alpha. [Project 7](https://github.com/mbindzi/AI-for-Trading/tree/master/Projects/7-%20Combine%20Signals%20for%20Enhanced%20Alpha%20Project)
+#### 7. Combined Signals for Enhanced Alpha. [Project 7](https://github.com/mbindzi/AI-for-Trading/tree/master/Projects/7-%20Combine%20Signals%20for%20Enhanced%20Alpha%20Project)
 ##### 7.1 Learning Objectives
 In the course leading up to the project, the learning objective is to get to know more about advanced techniques to select and combine the factors generated from both alternate data and market data.
 ##### 7.2 Project Specifications
